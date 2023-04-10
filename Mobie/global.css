@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-small-2: "Averta PE";
+  --font-montserrat: Montserrat;
+  --font-oregano: Oregano;
+  --font-san-francisco-text: "San Francisco Text";
+
+  /* font sizes */
+  --body-medi-size: 16px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+  --font-size-6xl: 25px;
+  --body-small-2-size: 12px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --bodytext-body3-regular-size: 14px;
+  --font-size-16xl: 35px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --main-colour-3: #fff;
+  --primary-1-main-50: #b9131a;
+  --color-slateblue: #2741c2;
+  --color-goldenrod-100: #ffc83a;
+  --color-darkslateblue-100: #21365f;
+  --main-colors-2: #00427a;
+  --color-darkslategray-100: #333;
+  --color-darkslategray-200: #2f2f2f;
+  --color-seagreen: #339a7d;
+  --primary-1-main-60: #770005;
+  --neutral-main-40: #969696;
+  --neutral-main-20: #c8c8c8;
+  --color-dimgray-100: #535353;
+  --neutral-main-60: #4f4f4f;
+  --primary-2-main-30: #0073d4;
+
+  /* Gaps */
+  --gap-mini: 15px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-smi: 13px;
+  --gap-6xs: 7px;
+  --gap-xs: 12px;
+  --gap-8xs: 5px;
+  --gap-16xl: 35px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-23xl: 42px;
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-12xs: 1px;
+  --padding-8xs: 5px;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-7xs: 6px;
+  --br-56xl-9: 75.9px;
+}
